@@ -9,10 +9,10 @@
 ## 👩‍💻 About Me
 
 🎓 I'm a graduate of Faculty of Computers & Artificial Intelligence – AI Department  
-🧠 I specialize in Data Science, Machine Learning, and Data Visualization  
+🧠 I specialize in Data Science, Machine Learning, and Data Analyst  
 🌱 I’m always learning new things, currently exploring advanced ML and real-world analytics  
 🎯 My goal is to build AI-driven solutions that create real impact  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/linkedin.com/in/doaa-hazem-634431294) | [Email](mailto:doaahazem711@gmail.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/linkedin.com/in/doaa-hazem-hassan) | [Email](mailto:doaahazem711@gmail.com)
 
 ---
 ## 🛠️ Tools & Technologies  
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/GPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-## 🚀 Projects
+## 🚀 Sample Projects
 
 - 🔍 *ML Model for Data Classification* – Built with scikit-learn  
 - 📊 *Sales Dashboard with Power BI*  
