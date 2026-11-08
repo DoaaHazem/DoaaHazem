@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Doaa Hazem</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&color=3D5AFE&width=480&lines=AI+Engineer+%7C+Data+Scientist;Building+LLM+Apps+%26+Automations;turning+Data+into+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&color=3D5AFE&width=600&lines=AI+Engineer+%7C+Data+Scientist;Building+LLM+Apps+%26+Automations;turning+Data+into+Intelligent+Solutions" alt="Typing SVG" />
 </p>
 
 ---
